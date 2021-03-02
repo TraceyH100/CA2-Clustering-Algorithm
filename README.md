@@ -1,2 +1,2 @@
 # CA2-Clustering-Algorithm
-A basic clustering algorithm. Initial uploaded version has 5 datapoints to sort, which are hardcoded in a list, and separates them into two clusters based on Euclidean distance from two centroids (coordinates of centroids also initially hardcoded.)
+A basic clustering algorithm. Initial uploaded version has 5 datapoints to sort, which are hardcoded in a list, and separates them into two clusters based on Euclidean distance from two centroids (coordinates of centroids also initially hardcoded) as required by assessment criteria. Aspirations for future development are 1/ user input of datapoints 2/ variable number of clusters 3/ user defined limitation on number of iterations performed.
